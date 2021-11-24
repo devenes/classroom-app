@@ -1,0 +1,22 @@
+body {
+  margin-top: 15px;
+}
+
+.online {
+  color: rgb(0, 81, 255);
+}
+.coder {
+  color: rgb(0, 255, 0);
+}
+
+.developer {
+  color: rgb(0, 126, 165);
+}
+
+.hacker {
+  color: rgb(255, 0, 128);
+}
+
+.pentester {
+  color: rgb(124, 0, 124);
+}
